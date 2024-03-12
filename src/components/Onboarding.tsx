@@ -1,6 +1,6 @@
 import { OnBoarding } from '@questlabs/react-sdk'
-import React from 'react'
 import { Config } from './config';
+import React from 'react';
 
 
 export default function Onboarding() {

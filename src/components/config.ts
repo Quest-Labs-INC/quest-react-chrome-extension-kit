@@ -5,4 +5,5 @@ export enum Config {
     API_KEY = 'your api Key',
     ENTITY_ID = 'your entity id',
     GOOGLE_CLIENT_ID = 'your google client id',
+    API_TYPE = "STAGING",
 }

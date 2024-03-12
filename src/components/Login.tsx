@@ -1,5 +1,4 @@
 import { QuestLogin } from '@questlabs/react-sdk'
-import React from 'react'
 import { Config } from './config'
 
 export default function Login() {

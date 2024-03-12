@@ -1,4 +1,3 @@
-import React from 'react'
 import { GetStarted } from '@questlabs/react-sdk'
 import { Config } from './config'
 
